@@ -1,6 +1,6 @@
 {
   "private": true,
-  "version": "0.8.15"
+  "version": "0.8.15",
   "bugs": "https://github.com/jaredpalmer/razzle/issues",
   "homepage": "https://github.com/jaredpalmer/razzle#readme",
   "devDependencies": {
